@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1 style="background-color:rgb(60,60,60);">rbg(60,60,60)</h1>
+        <h1 style="background-color:rgb(100,100,100);">rbg(100,100,100)</h1> 
+        <h1 style="background-color:rgb(140,140,140);">rbg(140,140,140)</h1>
+        <h1 style="background-color:rgb(180,180,180);">rbg(180,180,180)</h1>
+        <h1 style="background-color:rgb(200,200,200);">rbg(200,200,200)</h1>
+        <h1 style="background-color:rgb(240,240,240);">rbg(240,240,240)</h1>

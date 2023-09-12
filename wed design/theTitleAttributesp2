@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>About W3schools</h1>
+        <p title=About W3schools>
+            you cannot omit quotes around an attribute valueif the value contains space.
+        </p>
+        <p><b>
+            If you move the mouse over the paragraph above,
+            your brower will only display the first word from the title .
+            </b></p>
+    </body>
+</html>
